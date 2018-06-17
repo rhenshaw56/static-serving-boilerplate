@@ -1,0 +1,2 @@
+- A simple boilerplater setup for serving static js and html files
+- I wouldn't rather do "`python -m SimpleHTTPServer`"
