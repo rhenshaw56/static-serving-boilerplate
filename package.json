@@ -1,0 +1,15 @@
+{
+  "name": "mk-server",
+  "version": "1.0.0",
+  "description": "a simple setup for serving static files",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "henshaw rowland",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1"
+  }
+}
